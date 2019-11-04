@@ -5,14 +5,14 @@ a dataset consisting of 5,376 annotated images corresponding to 7 categories of 
 - val set: 852
 - test set: 268
 
->Urinary Sediment Dataset
->>Annotations
->>ImageSets
->>>Main
->>>>train.txt
->>>>val.txt
->>>>test.txt
->>JPEGImages
+    - Urinary Sediment Dataset
+        - Annotations
+        - ImageSets
+            - Main
+                - train.txt
+                - val.txt
+                - test.txt
+        - JPEGImages
 
 # Downloading Dataset
 google drive：
