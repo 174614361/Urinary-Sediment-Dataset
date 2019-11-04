@@ -1,9 +1,13 @@
 # Urinary Sediment Dataset
 a dataset consisting of 5,376 annotated images corresponding to 7 categories of urinary particle
 
-- train set: 4256
-- val set: 852
-- test set: 268
+- cast
+- cryst(crystals)
+- epith(epithelial)
+- epithn(epithelial nuclei)
+- eryth(erythrocyte) 
+- leuko(leukocyte)
+- mycete
 
 ```sh
 /VOCdevkit
@@ -16,6 +20,13 @@ a dataset consisting of 5,376 annotated images corresponding to 7 categories of 
     │       └── val.txt
     └── JPEGImages
 ```
+
+
+- train set: 4256
+- val set: 852
+- test set: 268
+
+
 
 # Downloading Dataset
 google drive：
