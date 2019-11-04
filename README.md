@@ -1,9 +1,18 @@
-# Urinary-Sediment-Dataset
+# Urinary Sediment Dataset
 a dataset consisting of 5,376 annotated images corresponding to 7 categories of urinary particle
 
 - train set: 4256
 - val set: 852
 - test set: 268
+
+>Urinary Sediment Dataset
+>>Annotations
+>>ImageSets
+>>>Main
+>>>>train.txt
+>>>>val.txt
+>>>>test.txt
+>>JPEGImages
 
 # Downloading Dataset
 google drive：
