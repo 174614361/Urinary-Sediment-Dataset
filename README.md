@@ -2,12 +2,17 @@
 a dataset consisting of 5,376 annotated images corresponding to 7 categories of urinary particle
 
 - cast
-- cryst(crystals)
-- epith(epithelial)
-- epithn(epithelial nuclei)
-- eryth(erythrocyte) 
-- leuko(leukocyte)
+- cryst (crystals)
+- epith (epithelial)
+- epithn (epithelial nuclei)
+- eryth (erythrocyte) 
+- leuko (leukocyte)
 - mycete
+
+# Format
+The dataset is in the [PASCAL VOC](https://pjreddie.com/projects/pascal-voc-dataset-mirror/) format.
+
+
 
 ```sh
 /VOCdevkit
@@ -20,7 +25,6 @@ a dataset consisting of 5,376 annotated images corresponding to 7 categories of 
     │       └── val.txt
     └── JPEGImages
 ```
-
 
 - train set: 4256 images
 - val set: 852 images
