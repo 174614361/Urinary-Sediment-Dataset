@@ -32,7 +32,6 @@ The dataset is in the [PASCAL VOC](https://pjreddie.com/projects/pascal-voc-data
 
 
 # Downloading Dataset
-google drive：
 https://drive.google.com/drive/folders/18VqmoqK7dVSdxiyEE6qCfIpS8UOqqIBS?usp=sharing
 
 # Citing Dataset
