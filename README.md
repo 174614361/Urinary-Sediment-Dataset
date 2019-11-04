@@ -22,10 +22,9 @@ a dataset consisting of 5,376 annotated images corresponding to 7 categories of 
 ```
 
 
-- train set: 4256
-- val set: 852
-- test set: 268
-
+- train set: 4256 images
+- val set: 852 images
+- test set: 268 images
 
 
 # Downloading Dataset
