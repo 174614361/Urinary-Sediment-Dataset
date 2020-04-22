@@ -1,9 +1,9 @@
 # Urinary Sediment Dataset
-a dataset consisting of 5,376 annotated images corresponding to 7 categories of urinary particle
+a dataset consisting of 5,376 annotated images corresponding to 7 categories of urinary sediment particle
 
 - cast
 - cryst (crystals)
-- epith (epithelial)
+- epith (epithelial cell)
 - epithn (epithelial nuclei)
 - eryth (erythrocyte) 
 - leuko (leukocyte)
@@ -59,3 +59,12 @@ If you find Dataset useful in your research, please consider citing:
       publisher={Springer}
     }
 
+    @INPROCEEDINGS{9054367, 
+      author={M. {Yan} and Q. {Liu} and Z. {Yin} and D. {Wang} and Y. {Liang}}, 
+      booktitle={ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+      title={A Bidirectional Context Propagation Network for Urine Sediment Particle Detection in Microscopic Images}, 
+      year={2020}, 
+      volume={}, 
+      number={}, 
+      pages={981-985}
+    }
